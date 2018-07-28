@@ -1,0 +1,2 @@
+# SeviasMC-Bot
+Sevias Bot
